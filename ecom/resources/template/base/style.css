@@ -1,0 +1,8 @@
+.slidder img{
+	width:300px !important;
+}
+@media only screen and (max-width: 600px) {
+  .slidder img{
+	width:100%;
+}
+}
